@@ -1,0 +1,9 @@
+/* VERSION HISTORY
+
+1.0.4 - added keypad
+1.0.3 - added ldr & ir
+1.0.2 - added relay sensor
+1.0.1 - added sensor input
+1.0.0 - new doortalk2 driver
+
+*/

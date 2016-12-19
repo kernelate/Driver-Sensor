@@ -1,0 +1,6 @@
+menuconfig DOORTALK2_PERIPHERAL_DRIVER
+	bool "DoorTalk2 Driver"
+    if DOORTALK2_PERIPHERAL_DRIVER
+    config DOORTALK2_DRIVER
+        tristate "DoorTalk2 Peripheral Driver"
+    endif
